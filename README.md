@@ -1,2 +1,2 @@
-# -get-started.github.io
+# get-started.github.io
 Документация "Основы работы в Платформе Грузи.ру"
